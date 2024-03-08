@@ -2,7 +2,6 @@
 <h1>Hi yall, I'm Gavin! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 <h2>Front End Engineer/UX UI Designer</h2>
 </div>
-<hr>
 💻 -Open to open source collaborative projects, design/user empathy, and helping people create a digital footprint in the world.
 <br>
 <br>
