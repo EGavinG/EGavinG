@@ -11,7 +11,7 @@
 💿 -I'm a huge music essentric, lover of traveling, overall nerd, and implementer of style across applications. 
 <br>
 <br>
-📬 -You can reach me here: <a href = "mailto: edwardgavingarcia@yahoo.com">Email</a>
+📬 -You can reach me here: <a href = "mailto: edwardgavingarcia@yahoo.com">Email</a> <a href = "https://www.linkedin.com/in/egavingarcia/">LinkedIn</a>
 
 
 
